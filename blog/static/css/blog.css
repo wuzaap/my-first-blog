@@ -40,6 +40,13 @@ h1, h2, h3, h4 {
     margin-right: 20px;
 }
 
+.top-menu2, .top-menu2:hover, .top-menu2:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 14pt;
+    margin-right: 20px;
+}
+
 .post {
     margin-bottom: 70px;
 }
